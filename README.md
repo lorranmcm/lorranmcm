@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Html & CSS**
 
-- 📫 How to reach me **lorranmcm@gmail.com**
+- 📫 You can reach me on **lorranmcm@gmail.com**
 
-- 📄 Know about my experiences [Worked previously as a UI designer, then frontend development. Currently aspiring fullstack engineer.](Worked previously as a UI designer, then frontend development. Currently aspiring fullstack engineer.)
+- 📄 Worked previously as a UI designer, then frontend development. Currently aspiring fullstack engineer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
