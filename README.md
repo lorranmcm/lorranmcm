@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html & CSS**
 
-- 📫 You can reach me at **https://api.whatsapp.com/send?phone=5585981141308**
+- 📫 You can reach me at [whatsapp](https://api.whatsapp.com/send?phone=5585981141308)
 
 - 📄 Worked previously as a UI designer, then frontend development. Currently aspiring fullstack engineer.
 
