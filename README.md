@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lorran</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [RouteList](https://github.com/lorranmcm/route-list)
+- 🔭 I’m currently working with **React** and **Rails**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Html & CSS**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 You can reach me at [whatsapp](https://api.whatsapp.com/send?phone=5585981141308)
 
-- 📄 Worked previously as a UI designer, then frontend development. Currently aspiring fullstack engineer.
+- 📄 Worked previously as a UI designer, then frontend development. Currently fullstack engineer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
