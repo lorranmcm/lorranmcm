@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lorran</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working with **Next, React Native** and **Node**
+- 🔭 I’m currently working with **Next.js** on front-end.
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently working with **Kotlin** on api development.
 
 - 📫 You can reach me at [whatsapp](https://api.whatsapp.com/send?phone=5585981141308)
 
